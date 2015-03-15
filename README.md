@@ -12,6 +12,6 @@ Installation of both these utility is pretty standard. Google to find out the in
 
 Usage
 =====
-bash youtube-dl-with-aria.sh <URL_of_download>
+bash youtube-dl-with-aria.sh <URL-for-download>
 
 
