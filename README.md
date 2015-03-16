@@ -12,6 +12,9 @@ Installation of both these utility is pretty standard. Google to find out the in
 
 Usage
 =====
+
+The below will work if youtube-dl is correctly setup
+
 bash youtube-dl-with-aria.sh URL
 
 
