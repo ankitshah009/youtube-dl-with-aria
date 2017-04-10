@@ -3,6 +3,7 @@ Youtube-dl-with-aria
 A wrapper that speeds up youtube-dl downloads by utilising aria2's
 capability of opening multiple connections per server. This uses a lot of bandwidth so be careful.
 
+Please refer the following post for initial setup http://ankitshah009.blogspot.in/2015/04/download-youtube-videos-faster-in-linux.html
 
 Dependencies
 ============
